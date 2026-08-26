@@ -1,14 +1,20 @@
 [
   {
-    "id": "11111111-1111-1111-1111-111111111111",
-    "name": "Keyboard",
-    "price": 59.99,
-    "category": "Accessories"
+    "Id": "11111111-1111-1111-1111-111111111111",
+    "Name": "Keyboard",
+    "Price": 59.99,
+    "Category": "Accessories"
   },
   {
-    "id": "22222222-2222-2222-2222-222222222222",
-    "name": "Mouse",
-    "price": 39.99,
-    "category": "Accessories"
+    "Id": "22222222-2222-2222-2222-222222222222",
+    "Name": "Mouse",
+    "Price": 39.99,
+    "Category": "Accessories"
+  },
+  {
+    "Id": "be40cb9a-f8f0-4bc3-b51d-c27f16a669b0",
+    "Name": "Monitor",
+    "Price": 249.99,
+    "Category": "Displays"
   }
 ]
