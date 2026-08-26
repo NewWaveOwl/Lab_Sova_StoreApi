@@ -5,6 +5,4 @@
     public sealed record CreateOrderItemRequest(Guid ProductId, int Quantity);
     public sealed record CreateOrderRequest(string CustomerName, List<CreateOrderItemRequest> Items);
 
-
-
 }
