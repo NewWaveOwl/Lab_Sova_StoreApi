@@ -19,6 +19,4 @@ namespace Lab00_Sova.Controllers
                 order.Items.Select(item => new OrderItemDto(
                     item.ProductId, item.Quantity, item.UnitPrice)).ToList());
     }
-
-
 }
